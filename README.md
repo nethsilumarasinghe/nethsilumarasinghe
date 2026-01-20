@@ -9,7 +9,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **Attorney (A Legal Case Handling System)**
+- 🔭 @Simcentric**
 
 - 🌱 I’m currently learning **Selenium**
 
