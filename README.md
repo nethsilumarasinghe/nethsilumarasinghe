@@ -9,7 +9,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 @Simcentric**
+- 🔭 @Simcentric Technologies Pvt Ltd
 
 - 🌱 I’m currently learning **Selenium**
 
